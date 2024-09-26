@@ -59,7 +59,6 @@
 - **Email**: xxu52595@gmail.com  
 - **LinkedIn**: [Mandy Xu](https://www.linkedin.com/in/mandy-xu-1a42321ba/)  
 - **GitHub**: [toutou001](https://github.com/toutou001)  
-- **Personal Website**: [mandytoutou.com](https://www.mandytoutou.com)
 
 Feel free to explore my repositories and projects to see how I approach real-world data science challenges!
 
